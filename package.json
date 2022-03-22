@@ -1,6 +1,6 @@
 {
   "name": "error-handle-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let you customize error handle for Node CLI",
   "main": "index.js",
   "type": "module",
