@@ -1,0 +1,53 @@
+{
+  "name": "error-handle-cli",
+  "version": "1.0.0",
+  "description": "Let you customize error handle for Node CLI",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "exports": "./index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/error-handle-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "console",
+    "error",
+    "handle",
+    "error-handle",
+    "cli-error-handle",
+    "cli-error-msg",
+    "cli-error",
+    "cli-error-console",
+    "cli-my-console",
+    "cli-your-console",
+    "cli-all-console",
+    "cli error windows",
+    "cli error macos",
+    "cli error linux",
+    "cli error windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/error-handle-cli/issues"
+  },
+  "homepage": "https://github.com/csalam07/error-handle-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cli-symbols-log": "^1.0.1"
+  }
+}
